@@ -1,5 +1,5 @@
 # movie_success_classifier
-This is a prgram for predictig the financial success of a movie in the future. 
+This is a prgram for predicting the financial success of a movie. 
 
 imdb_project/movie_classifier.ipynb is the python notebook.
 
