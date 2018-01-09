@@ -1,5 +1,5 @@
 # movie_success_classifier
-This is a prgram for predicting the financial success of a movie. 
+This is a program for predicting the financial success of a movie. 
 
 imdb_project/movie_classifier.ipynb is the python notebook.
 
@@ -12,3 +12,8 @@ The code is split in 2 parts:
 2. Model training and model testing:
 	Scikit learn is used.
 	Various models are tested and their accuracy score is compared.
+
+
+
+
+**Milind Kulkarni**
