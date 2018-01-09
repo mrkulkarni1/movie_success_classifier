@@ -16,4 +16,4 @@ The code is split in 2 parts:
 
 
 
-**Milind Kulkarni**
+**Code written by Milind Kulkarni, using open source python libraries.**
